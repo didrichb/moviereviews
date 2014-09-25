@@ -25,4 +25,3 @@ class IndexController extends Controller
         $this->render('index.twig', $variables);
     }
 }
-//test
